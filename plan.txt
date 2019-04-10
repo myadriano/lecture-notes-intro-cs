@@ -1,0 +1,54 @@
+Title: Introduction to Computer Science and System
+
+=====================================================
+
+B1: 计算机是怎样跑起来的
+B2: 程序是怎样跑起来的
+
+=============================================================
+
+Part I. How Computers Work
+
+Lecture 1: An overview (B1: ch1)
+
+Lecture 2: Build a Mini-computer --- unveiling the mask of the computer hardware (B1: ch2)
+
+Lecture 3: CPU and Instruction Cycle (B1: ch3; B2: ch1)
+
+Lecture 4: Digitization (B2: ch2, ch3, and more on character, image, sound, and so on) 
+
+------------------------------------------------------------
+
+Part II. The Computer Programming
+
+Lecture 5: Computer program, compiler and interpreter (B1: ch4; B2: ch12)
+
+Lecture 6: Algorithm design and analysis (B1: ch5) 
+
+Lecture 7: Data Structure and the Memory Management (B1: ch6; B2: ch4)
+
+------------------------------------------------------------
+
+Part III. Computer System and Applications
+
+Lecture 8: Hardware (B2: ch5)
+
+Lecture 9: Operating System (B2: ch7, ch9)
+
+Lecture 10: Database (B1: ch8)
+
+Lecture 11: Networks (B1: ch9)
+
+Lecture 12: Encryption (B1: ch10)
+
+-----------------------------------------------------------
+
+Part IV. Advanced Topics
+
+Big Data, Artificial Intelligence, Bloch Chain, Quantum Computation, and so on.
+
+==============================================================
+
+讲义中删去的两本书中的内容：B1: ch2, ch7, ch11, ch12; B2: ch6, ch10, ch11, Appendix C
+
+讲义中可能还需要添加的内容：Software（可考虑参考B1: ch7）
