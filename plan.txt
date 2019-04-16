@@ -15,7 +15,7 @@ Lecture 2: Build a Mini-computer --- unveiling the mask of the computer hardware
 
 Lecture 3: CPU and Instruction Cycle (B1: ch3; B2: ch1)
 
-Lecture 4: Digitization (B2: ch2, ch3, and more on character, image, sound, and so on) 
+Lecture 4: Digitization (B2: ch2, ch3, and more on character, image, sound, and so on)
 
 ------------------------------------------------------------
 
@@ -23,11 +23,11 @@ Part II. The Computer Programming
 
 Lecture 5: Computer program, compiler and interpreter (B1: ch4; B2: ch12)
 
-Lecture 6: Algorithm design and analysis (B1: ch5) 
+Lecture 6: Algorithm design and analysis (B1: ch5)
 
 Lecture 7: Data Structure and the Memory Management (B1: ch6; B2: ch4)
 
-------------------------------------------------------------
+-----------------------------------------------------------
 
 Part III. Computer System and Applications
 
